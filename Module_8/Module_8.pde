@@ -21,6 +21,7 @@
     other[i].scale = other[i].mass * 15;
     other[i].position.x = -500;
     other[i].position.y = 200;
+    
   }
   
   
